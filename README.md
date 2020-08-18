@@ -12,7 +12,7 @@ This program manages files for C++ projects. Setup preferences in settings.py.
       Program auto template main.cpp, .cpp, and .h files for convenience  
 
 * Runs on Linux, and need to have following file structure:  
-      Folder with all projects -> # Project -> project files  
+      * Folder with all projects -> # Project -> project files  
             # Project -> project files  
             # ...  
             # Project -> project files  
