@@ -1,5 +1,5 @@
 # Project-Manager
-Creates, manages, and edits C++ projects on Linux using Makefiles.  
+Creates, manages, and dynamically generates components for C++ projects.  
 
 This program manages files for C++ projects. Setup preferences in settings.py.  
 
